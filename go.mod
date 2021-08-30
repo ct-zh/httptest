@@ -1,3 +1,3 @@
-module github.com/LannisterAlwaysPaysHisDebts/httptest
+module github.com/ct-zh/httptest
 
 go 1.14
